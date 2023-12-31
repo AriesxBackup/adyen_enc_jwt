@@ -13,7 +13,9 @@
   "author": "glizzykingdreko <glizzykingdreko@protonmail.com>",
   "license": "ISC",
   "dependencies": {
+    "adyen-4.5.0": "^1.0.0",
     "crypto": "^1.0.1",
+    "express": "^4.18.2",
     "jwk-to-pem": "^2.0.5"
   }
 }
